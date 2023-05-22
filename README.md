@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @markwdavies from Whitstable
-- 👀 I’m interested in many things including SQL
+---
+- 👋 Hi, I’m @markwdavies from Whitstable in the UK.
+- 👀 I’m interested in many coding lanquages including SQL ( mainly working with Databases right now ).
+---
 - 📫 How to reach me ... via email ... mirkwd@gmail.com
-
-- [More Information](https://code.markwdavies.co.uk) on my GitHub Pages hosed code website
-
-- [SQLServerUtilities](../../../SQLServerUtilities) public repo contains SQL Server Scripts etc
+---
+- [More Information](https://code.markwdavies.co.uk) on my GitHub Pages hosted code website.
+---
+- [SQLServerUtilities](../../../SQLServerUtilities) public repo contains SQL Server Scripts etc.
+- Other public repos may follow
+---
